@@ -2,7 +2,8 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='ojhlbfiamihflejpdokkkehbpbbgpmid'>
     <updatecheck 
-      codebase='https://gunamsterG92311.github.io/NextGen_Chrome_extensions.crx/NextGen_Chrome_extensions.crx'
-      version='1.1.2.' />
+      <updatecheck 
+  codebase='https://github.com/gunamsterG92311/NextGen_Chrome_extensions.crx/releases/download/v2.0.1/NextGen_Chrome_extensions.crx'
+  version='2.0.1' />
   </app>
 </gupdate>
